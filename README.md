@@ -11,7 +11,7 @@
 
 - **Software & Tools:**  
   - MATLAB, Simulink,
-  - ROS, Gazebo, Issac Sim, Linux
+  - ROS, Gazebo, PyBullet, Issac Sim, Linux
   - AutoCAD, Fusion 360
   - GitHub, Docker
   - 3D Printing, CNC Milling, Laser Cutting
@@ -25,7 +25,7 @@ Available on: [arXiv:2407.15622](https://arxiv.org/abs/2407.15622)
 
 **“Optimizing energy consumption for legged robot in cyclic tasks by adapting equilibrium position and stiffness of a parallel torsion spring”**  
 *IEEE ROBIO 2024: IEEE International Conference on Robotics and Biomimetics*  
-Accepted for presentation, will be available online soon.
+Available on: [https://arxiv.org/abs/2411.18295)](https://arxiv.org/abs/2411.18295)
 
 ## 📫 How to reach me?
 [LinkedIn][-1]
