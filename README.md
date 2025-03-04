@@ -19,12 +19,13 @@
 
 
 ## 📚 Published Articles
+
 **“Adaptive MPC-based quadrupedal robot control under periodic disturbances”** 
 *IEEE IROS 2025: IEEE/RSJ International Conference on Intelligent Robots and Systems*
-Paper submitted, waiting for review
+Paper submitted, waiting for review.
 
 **“Optimizing energy consumption for legged robot in cyclic tasks by adapting equilibrium position and stiffness of a parallel torsion spring”**  
-*IEEE ROBIO 2024: IEEE International Conference on Robotics and Biomimetics*  
+*IEEE ROBIO 2024: IEEE International Conference on Robotics and Biomimetics*
 Available on: [https://arxiv.org/abs/2411.18295)](https://arxiv.org/abs/2411.18295)
 
 **“HyperSurf: Quadruped Robot Leg Capable of Surface Recognition with GRU and Real-to-Sim Transferring”**  
