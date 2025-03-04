@@ -20,8 +20,8 @@
 
 ## 📚 Published Articles
 
-**“Adaptive MPC-based quadrupedal robot control under periodic disturbances”** 
-*IEEE IROS 2025: IEEE/RSJ International Conference on Intelligent Robots and Systems*
+**“Adaptive MPC-based quadrupedal robot control under periodic disturbances”**  
+*IEEE IROS 2025: IEEE/RSJ International Conference on Intelligent Robots and Systems*  
 Paper submitted, waiting for review.
 
 **“Optimizing energy consumption for legged robot in cyclic tasks by adapting equilibrium position and stiffness of a parallel torsion spring”**  
