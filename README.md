@@ -10,7 +10,7 @@
   - Python, C++, SQL 
 
 - **Software & Tools:**  
-  - ROS, Gazebo, RaiSim, PyBullet, Issac Sim, Linux
+  - ROS, Gazebo, RaiSim, PyBullet, Isaac Lab, Isaac Sim, Linux
   - MATLAB, Simulink
   - AutoCAD, Fusion 360
   - GitHub, Docker
@@ -23,6 +23,12 @@
 **“Adaptive MPC-based quadrupedal robot control under periodic disturbances”**  
 *IEEE IROS 2025: IEEE/RSJ International Conference on Intelligent Robots and Systems*  
 Paper submitted, waiting for review.
+GitHub:[Periodic-Adaptive-MPC](https://github.com/LizaP9/Periodic_Adaptive_MPC)
+
+**“Quadrupedal Robot Skateboard Mounting via Reverse Curriculum Learning”**
+*IEEE CDC 2025: 64th IEEE Conference on Decision and Control*
+Paper submitted, waiting for review.
+GitHub:[quadruped-skateboard-mounting](https://github.com/LizaP9/quadruped-skateboard-mounting)
 
 **“Optimizing energy consumption for legged robot in cyclic tasks by adapting equilibrium position and stiffness of a parallel torsion spring”**  
 *IEEE ROBIO 2024: IEEE International Conference on Robotics and Biomimetics*
