@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Liza Pestova</h1>
-<h3 align="center">A Robotics Researcher | MSc in Engineering Systems</h3>
+<h3 align="center">A Robotics Software Engineer | MSc in Engineering Systems</h3>
 
-- 🌱 I’m currently learning **Machine Learning, Reinforcement Learning**
+- 🌱 I’m currently focused on **Reinforcement Learning, sim2real, Humanoid Robotics, Physical AI**
 
 
 ## 🛠️ Skills 
@@ -10,7 +10,7 @@
   - Python, C++, SQL 
 
 - **Software & Tools:**  
-  - ROS, Gazebo, RaiSim, PyBullet, Isaac Lab, Isaac Sim, Linux
+  - ROS, NVIDIA Omniverse, Isaac Lab, Isaac Sim, Gazebo, RaiSim, PyBullet, Linux
   - MATLAB, Simulink
   - AutoCAD, Fusion 360
   - GitHub, Docker
@@ -21,13 +21,9 @@
 ## 📚 Published Articles
 
 **“Adaptive MPC-based quadrupedal robot control under periodic disturbances”**  
-*IEEE IROS 2025: IEEE/RSJ International Conference on Intelligent Robots and Systems*  
-Paper submitted, waiting for review.
 GitHub:[Periodic-Adaptive-MPC](https://github.com/LizaP9/Periodic_Adaptive_MPC)
 
 **“Quadrupedal Robot Skateboard Mounting via Reverse Curriculum Learning”**
-*IEEE CDC 2025: 64th IEEE Conference on Decision and Control*
-Paper submitted, waiting for review.
 GitHub:[quadruped-skateboard-mounting](https://github.com/LizaP9/quadruped-skateboard-mounting)
 
 **“Optimizing energy consumption for legged robot in cyclic tasks by adapting equilibrium position and stiffness of a parallel torsion spring”**  
