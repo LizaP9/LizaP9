@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Liza Pestova</h1>
-<h3 align="center">A Robotics Software Engineer | MSc in Engineering Systems</h3>
+<h1 align="center">Hi 👋, I'm Elizaveta Pestova</h1>
+<h3 align="center">Robotics Software Engineer | MSc in Engineering Systems</h3>
 
 - 🌱 I’m currently focused on **Reinforcement Learning, sim2real, Humanoid Robotics, Physical AI**
 
